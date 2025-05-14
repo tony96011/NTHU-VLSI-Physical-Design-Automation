@@ -1,0 +1,14 @@
+-- How to Compile
+  In "HW3/src/", enter the following command:
+  $ make
+  
+-- How to Run
+  Usage:
+  $ ./hw3 <txt file> <out file> <dead space ratio>
+  An executable file "hw3" will be generated in "HW3/bin/".
+  
+  If you want to remove it, please enter the following command:
+  $ make clean
+  
+  E.g., in "HW3/bin/", enter the following command:
+  $ ./hw3 ../testcase/public1.txt ../output/public1.out 0.1
