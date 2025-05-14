@@ -26,6 +26,8 @@ var/
 *.swp
 *.swo
 
+qrc/
+
 # OS
 .DS_Store
 Thumbs.db 
